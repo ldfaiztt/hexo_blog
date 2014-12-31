@@ -47,7 +47,7 @@ Welcome to Markdown guide.
 ---
 
 ## **插入图片**
- 一行表示: [萌宠](http://image.baidu.com/detail/newindex?col=%E5%AE%A0%E7%89%A9&tag=%E5%85%A8%E9%83%A8&pn=88&pid=9186032719&aid=&user_id=664577379&setid=-1&sort=0&newsPn=&star=&fr=&from=1)
+ 一行表示: ![](http://ww2.sinaimg.cn/large/5e8cb366jw1e62o63tkv3j20dh078q5a.jpg)
  引用表示法: ![alt_text][id],预先定义 [id]:url "可选title"
  直接使用<img>标签，这样可以指定图片的大小尺寸
 
