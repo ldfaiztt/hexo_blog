@@ -20,11 +20,11 @@ tags: markdown
 
 代码如下：
 
-    <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+    <script type="text/javascript" src="http://www.xiami.com/widget/player-multi?uid=45521081&sid=1770417636,&width=235&height=346&mainColor=FF8719&backColor=494949&autoplay=0&mode=js"></script>
 
 效果图如下：
 
-<embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+<script type="text/javascript" src="http://www.xiami.com/widget/player-multi?uid=45521081&sid=1770417636,&width=235&height=346&mainColor=FF8719&backColor=494949&autoplay=0&mode=js"></script>
 
 
 ## *视屏*

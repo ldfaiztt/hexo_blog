@@ -1,8 +1,9 @@
 <% if (site.tags.length){ %>
-  <div class="tagcloudlist">
-    <p class="asidetitle"><%= __('tagcloud') %></p>
+  <div class="tagcloudlist" style="height:300px">
+    <p class="asidetitle">Tagcloud</p>
     <div class="tagcloudlist clearfix">
        <%- tagcloud() %>
     </div>
   </div>
+  <script src="<%- config.root %>js/miaov.js"></script>
 <% } %>
