@@ -1,6 +1,7 @@
 title: Markdown入门
 date: 2014-12-30 09:17:38
 tags: markdown 
+categories: markdown
 ---
 Welcome to Markdown guide.
 
