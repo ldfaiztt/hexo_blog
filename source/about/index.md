@@ -14,8 +14,14 @@ date: 2015-01-03 16:47:16
 
 # *Skills*
 	熟悉： 	JAVA	Strurs2	Python	Django	CSS+HTML+JS(含Jquery)+Ajax	Git	
-			  Shell	Android	Openstack	Linux...
-	了解：	Hadoop	Docker	Lucene	node.js go				
+			  Shell	Android	Openstack SVN	Markdown RestFul Mysql Linux...
+	了解：	Hadoop	Docker	Lucene	node.js go	CXF RPC mangoDB
+
+
+# *Tools*
+
+	vi/vim	eclipse	Sublime Text 
+
 
 # *SNS*
 Origin Bolg: <http://www.cnblogs.com/voidy/>

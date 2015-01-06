@@ -51,5 +51,14 @@
     <link rel="apple-touch-icon" href="<%- config.root %><%- theme.apple_icon %>">
     <link rel="apple-touch-icon-precomposed" href="<%- config.root %><%- theme.apple_icon %>">
     <% } %>
+
     <%- css('css/style') %>
+    
+    <!-- 标签云侵入样式 -->
+  <style>
+    .tagcloudlist {position:relative; height:300px;}
+    .tagcloudlist  a {position:absolute; top:0px; left:0px;  text-decoration:none; padding: 3px 6px; }
+    .tagcloudlist  a:hover {border: 1px solid #eee; background: #000; }
+  </style>
+    <script src="<%- config.root %>js/miaov.js"></script>
 </head>
