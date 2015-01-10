@@ -14,9 +14,13 @@ widgets:
 - clock
 - music
 - category
+- recent_posts
+- archive
+- recent_comments
 - tagcloud
 - blogroll
-- archive
+
+
 
 ## provide six widgets:category,tag,rss,archive,tagcloud,links.
 ## modify links in `/layout/_widget/links.ejs`.
