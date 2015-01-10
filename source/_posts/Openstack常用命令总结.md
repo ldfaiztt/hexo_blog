@@ -1,7 +1,7 @@
 title: Openstack常用命令总结
 date: 2015-01-08 18:11:13
-tags: [Openstack,Openstack command-line]
-categories: [cloud computing]
+tags: [Openstack,Openstack Command-line]
+categories: [Cloud Computing]
 ---
 
 ##	常用命令

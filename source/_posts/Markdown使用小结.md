@@ -1,7 +1,7 @@
 title: Markdown入门总结
 date: 2015-01-03 23:37:21
-tags: [markdown,hexo]
-categories: hexo
+tags: [Markdown,Hexo]
+categories: Hexo
 ---
 	Markdown让我们专注于创作，而非排版。
 

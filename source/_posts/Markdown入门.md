@@ -1,7 +1,7 @@
 title: Markdown入门
 date: 2014-12-30 09:17:38
-tags: [markdown,hexo] 
-categories: hexo
+tags: [Markdown,Hexo] 
+categories: Hexo
 ---
 Welcome to Markdown guide.
 
