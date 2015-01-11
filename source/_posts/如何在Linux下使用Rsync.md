@@ -1,6 +1,6 @@
 title: 如何在Linux下使用Rsync
 date: 2015-01-11 11:23:31
-tags: Rsync
+tags: [Rsync,Linux]
 categories: Linux
 ---
 
