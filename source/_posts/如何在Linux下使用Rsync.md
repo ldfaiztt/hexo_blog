@@ -184,3 +184,9 @@ rsync命令可以用来备份linux。你可以在cron中使用rsync安排备份�
 >参考文章：<http://linoxide.com/how-tos/rsync-copy/>
 
 >了解更多:<http://linux.die.net/man/1/rsync>
+
+
+---
+> **版权声明**
+> **本博文由`voidy-小鱼`原创，若要转载，请附上`作者`以及[博文链接](http://voidy.net)。**
+> **博文链接：<http://voidy.net/>**

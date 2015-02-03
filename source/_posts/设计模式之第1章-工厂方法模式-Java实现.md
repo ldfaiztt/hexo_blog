@@ -114,3 +114,11 @@ categories: [Java,Design Patterns]
 参考书籍：GoF的《Design Patterns:Elements of Reusable Object-Oriented Software》
 
 　　　　　秦小波的《The Zen of Design Patterns second Edition》
+		  程杰的《大话设计模式》
+
+
+
+---
+> **版权声明**
+> **本博文由`voidy-小鱼`原创，若要转载，请附上`作者`以及[博文链接](http://voidy.net)。**
+> **博文链接：<http://voidy.net/>**

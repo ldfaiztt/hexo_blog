@@ -1,6 +1,6 @@
 title: Markdown入门总结
 date: 2015-01-03 23:37:21
-tags: [Markdown,Hexo]
+tags: [markdown,hexo]
 categories: hexo
 ---
 	Markdown让我们专注于创作，而非排版。
@@ -360,6 +360,8 @@ g    | h    | i
 \!
 
 
-    
-	
+---
+> **版权声明**
+> **本博文由`voidy-小鱼`原创，若要转载，请附上`作者`以及[博文链接](http://voidy.net)。**
+> **博文链接：<http://voidy.net/>**	
 	

@@ -141,3 +141,9 @@ categories: [Java,Design Patterns]
 
 预知后事如何，且听下回分解，饿的不行了，吃饭去~
 
+
+
+---
+> **版权声明**
+> **本博文由`voidy-小鱼`原创，若要转载，请附上`作者`以及[博文链接](http://voidy.net)。**
+> **博文链接：<http://voidy.net/>**

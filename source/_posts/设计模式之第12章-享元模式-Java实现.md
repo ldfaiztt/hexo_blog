@@ -117,4 +117,4 @@ categories: [Java,Design Patterns]
 ---
 > **版权声明**
 > **本博文由`voidy-小鱼`原创，若要转载，请附上`作者`以及[博文链接](http://voidy.gitcafe.com/2015/01/25/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%AC%AC12%E7%AB%A0-%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F-Java%E5%AE%9E%E7%8E%B0/)。**
-> **博文链接：<http://voidy.gitcafe.com/>**
+> **博文链接：<http://voidy.net/>**

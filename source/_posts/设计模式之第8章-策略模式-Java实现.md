@@ -98,3 +98,9 @@ Define a family of algorithms, encapsulate each one, and make them interchangeab
 * 需要使用一个算法的不同变体。
 * 一个类定义了多种行为。
 * 需要屏蔽算法规则。
+
+
+---
+> **版权声明**
+> **本博文由`voidy-小鱼`原创，若要转载，请附上`作者`以及[博文链接](http://voidy.net)。**
+> **博文链接：<http://voidy.net/>**

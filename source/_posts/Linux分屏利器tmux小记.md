@@ -76,3 +76,9 @@ RedHat类：
 	Ctrl-a & 关闭窗口
 	Ctrl-a s 以菜单方式显示和选择会话
 	Ctrl-a d 退出tumx，并保存当前会话，这时，tmux仍在后台运行，可以通过tmux attach进入 到指定的会话
+
+
+---
+> **版权声明**
+> **本博文由`voidy-小鱼`原创，若要转载，请附上`作者`以及[博文链接](http://voidy.net)。**
+> **博文链接：<http://voidy.net/>**
