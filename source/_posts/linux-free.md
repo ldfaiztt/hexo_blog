@@ -99,9 +99,11 @@ free命令可以显示Linux系统中空闲的、已用的物理内存及swap内�
 
 以上。
 
-
+> 参考资料：
 > <http://www.linuxnix.com/2013/05/find-ram-size-in-linuxunix.html>
 > <http://www.tecmint.com/check-memory-usage-in-linux/>
+
+
 ---
 > **版权声明**
 > **本人博文若无特别说明，均由`voidy-小鱼`原创，若要转载，请附上`作者`以及[博文链接](http://voidy.net)。**
